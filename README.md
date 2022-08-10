@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://awesome-github-stats.azurewebsites.net/user-stats/ASands17&theme=tokyonight)](https://git.io/awesome-stats-card)
+
 <!--
 **ASands17/ASands17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
