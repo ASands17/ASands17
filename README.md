@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there! I'm Amanda Sands </h1>
 
-I'm a front-end software developer with previous careers in healthcare and education. I've always enjoyed giving my customers the best possible experience, so as a developer, the user is always at the forefront of my mind. I love software that shines through simplicity and ease of use. 
+I'm a front-end software developer with previous careers in healthcare and education. I've always enjoyed giving customers and students the best possible experience, so as a developer, the user is always at the forefront of my mind. I love software that shines through simplicity and ease of use. 
 
 
 - ✉️ How to reach me: [Linkedin](https://www.linkedin.com/in/amanda-noel/) | amandajean555@gmail.com
